@@ -1,3 +1,4 @@
 # My-Test-Repo
-Learning to use git &amp; GitHub
-I am having fun!
+<<<<<<< HEAD
+Learning to use git & GitHub!
+
